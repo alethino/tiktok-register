@@ -1,5 +1,5 @@
 # TikTok Register
-#tiktok api 
+#tiktok api
 
 ### Latest version available for testing
 ## Telegram @alethino - https://t.me/alethino
