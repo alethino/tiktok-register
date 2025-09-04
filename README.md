@@ -1,6 +1,5 @@
 # TikTok Register
 #tiktok api
-
 ### Latest version available for testing
 
 
